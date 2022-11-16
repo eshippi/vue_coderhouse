@@ -1,0 +1,13 @@
+div.center {
+    display: inline-flex;
+    border: 10px solid green;
+    padding: 10px;
+  }
+
+div.center button.btn-danger {
+    margin-right: 30px;
+}
+
+div.center button.btn-success{
+    margin-left: 30px;
+}
